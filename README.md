@@ -165,4 +165,4 @@ We'll teach your more about how to use the debugger effectively in the next unit
 [loc_sim]: https://curriculum-content.s3.amazonaws.com/reading-ios-debugging/toolbar_locationSimulator.png
 
 
-<a href='https://learn.co/lessons/pc-ios-xcode' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-xcode' title='Xcode: An Overview'>Xcode: An Overview</a> on Learn.co and start learning to code for free.</p>
